@@ -1,0 +1,27 @@
+{
+  "name": "group-video",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "heroku": "^7.42.1",
+    "nodemon": "^2.0.4",
+    "pkg.json": "^2.0.7",
+    "socket.io": "^2.3.0"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "devDependencies": {},
+  "author": "",
+  "description": ""
+}
